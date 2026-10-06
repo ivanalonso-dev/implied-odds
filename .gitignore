@@ -1,0 +1,20 @@
+# Datos descargados: pesados y se regeneran con src/fase1_descarga.py
+data/*
+# ...salvo los resultados finales, pequeños, para poder rehacer gráficos sin descargar nada
+!data/fase2_snapshots.csv
+!data/fase3_scores.csv
+!data/fase4_lag.csv
+
+# Herramientas y borradores personales (no forman parte del estudio publicado)
+src/grabador_libro.py
+instalar_tarea.ps1
+docs/publicacion_borradores.md
+
+# Python / sistema
+__pycache__/
+*.pyc
+.env
+.venv/
+.ipynb_checkpoints/
+.vscode/
+desktop.ini
