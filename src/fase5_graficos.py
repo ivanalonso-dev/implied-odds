@@ -33,7 +33,7 @@ TXT = {
     "en": {
         "xlabel": "Hours before market close (12:00 ET)",
         "footer": "Data: Polymarket daily BTC price-range markets, Deribit DVOL, Binance BTCUSDT · "
-                  "{n} days, Jul–Oct 2026 · Ivan Alonso",
+                  "{n} days, Jul–Oct 2026 · Ivan Alonso H.",
         "realized": "Realized", "dvol_adj": "DVOL, time-of-day adj.",
         "vol_y": "Annualized volatility (%)",
         "vol_t": "Polymarket reprices volatility as the close approaches; DVOL stays flat",
@@ -48,7 +48,7 @@ TXT = {
     "es": {
         "xlabel": "Horas antes del cierre del mercado (12:00 ET)",
         "footer": "Datos: mercados diarios de rango de BTC en Polymarket, DVOL de Deribit, Binance "
-                  "BTCUSDT · {n} días, jul–oct 2026 · Ivan Alonso",
+                  "BTCUSDT · {n} días, jul–oct 2026 · Ivan Alonso H.",
         "realized": "Realizada", "dvol_adj": "DVOL ajustado por hora",
         "vol_y": "Volatilidad anualizada (%)",
         "vol_t": "Polymarket ajusta la volatilidad al acercarse el cierre; el DVOL no se mueve",

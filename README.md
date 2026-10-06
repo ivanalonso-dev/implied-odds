@@ -99,5 +99,5 @@ Full reports (PDF): [English](informe/Report_ImpliedOdds_Ivan_Alonso_EN.pdf) ·
 
 ## Author
 
-Ivan Alonso · [GitHub](https://github.com/ivanalonso-dev) ·
+Ivan Alonso H. · [GitHub](https://github.com/ivanalonso-dev) ·
 [LinkedIn](https://linkedin.com/in/ivanalonsobcsentinel) · [X](https://x.com/IvanAlonsoBCSen)
